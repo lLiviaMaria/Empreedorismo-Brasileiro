@@ -48,7 +48,6 @@ let dados = [
         linklinkedin: "https://www.linkedin.com/company/ifood-/",
         tags: "delivery foodtech tecnologia"
       },
-      ,
   {
     titulo: "Magazine Luiza",
     descricao: "O Magazine Luiza é uma das maiores redes varejistas do Brasil, oferecendo uma ampla variedade de produtos e serviços.",
@@ -56,13 +55,11 @@ let dados = [
     linklinkedin: "https://www.linkedin.com/company/magazine-luiza/",
     tags: "varejo e-commerce eletrodomésticos moda"
   },
-  ,
   {
     titulo: "Vivo",
     descricao: "A Vivo é uma das maiores empresas de telecomunicações do Brasil, oferecendo serviços de telefonia móvel, fixa e internet.",
     linksite: "https://www.vivo.com.br/",
     linklinkedin: "https://www.linkedin.com/company/vivo-telefonicabr/",
     tags: "telecomunicações telefonia celular internet"
-  },
-
+  }
   ];
