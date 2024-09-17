@@ -37,8 +37,8 @@ function pesquisar() {
         <div class="item-resultado"> 
             <h2> ${dado.titulo} </h2>
             <p class="descricao-meta">${dado.descricao} </p>
-            <a href=${dado.linklinkedin} target="_blank"> Site Oficial </a> <br>        
-            <a href=${dado.linksite} target="_blank">Linkedin </a>
+            <a href=${dado.linksite} target="_blank"> Site Oficial </a> <br>        
+            <a href=${dado.linklinkedin} target="_blank">Linkedin </a>
         </div>
     `;
      }
