@@ -16,8 +16,8 @@ let dados = [
     {
       titulo: "Rede D'Or",
       descricao: "A Rede D'Or São Luiz é uma das maiores redes de hospitais privados do Brasil, oferecendo serviços de alta complexidade em diversas especialidades médicas.",
-      linksite: "https://www.redor.org.br/",
-      linklinkedin: "https://www.linkedin.com/company/rede-dor-sao-luiz/",
+      linksite: "https://www.rededorsaoluiz.com.br/unidades",
+      linklinkedin: "https://www.linkedin.com/company/rededor/",
       tags: "hospital saúde medicina saúde privada hospitalização"
     },
     {
@@ -30,7 +30,7 @@ let dados = [
     {
       titulo: "Boca Rosa Beauty",
       descricao: "Boca Rosa Beauty é a marca de cosméticos criada pela influenciadora digital brasileira Bianca Andrade, mais conhecida como Boca Rosa. A marca oferece uma ampla variedade de produtos de beleza.",
-      linksite: "https://www.bocarosabeauty.com.br/",
+      linksite: "https://bocarosa.com.br/password",
       linklinkedin: "https://www.linkedin.com/company/boca-rosa-company/",
       tags: "cosméticos beleza maquiagem skincare influenciadora"
     },
